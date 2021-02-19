@@ -1,3 +1,7 @@
+no code for recording screens and showing videos
+![visor_facke_open_proved_with_project_structure](https://user-images.githubusercontent.com/5738175/108489447-86827400-72dc-11eb-81f0-59ed700604ad.png)
+
+
 # Vysor - Mirror and Control your Phone
 
 
